@@ -9,5 +9,7 @@
 
 <!-- ![My Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg) -->
 
-![My Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/screen.jpg)
+<!-- ![My Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/screen.jpg) -->
+
+![My Portfolio Website](https://github.com/Zelalem-Woleli/Zelalem-Woleli.github.io/screen.jpg)
 
